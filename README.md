@@ -42,7 +42,7 @@ pip install numpy matplotlib torch torchvision tqdm torch_snippets pillow tensor
 
 ## Project Structure
 
-```
+
 .
 ├── adam_optimizer_nst.py        # NST implementation using Adam optimizer
 ├── lbfgs_optimizer_nst.py       # NST implementation using L-BFGS optimizer
